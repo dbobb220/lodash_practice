@@ -1,0 +1,28 @@
+{
+  "name": "lodash_practice",
+  "version": "1.0.0",
+  "description": "Practice using lodash package",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbobb220/lodash_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbobb220/lodash_practice/issues"
+  },
+  "homepage": "https://github.com/dbobb220/lodash_practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "lodash.chunk": "^4.2.0",
+    "lodash.compact": "^3.0.1",
+    "lodash.reverse": "^4.0.1",
+    "lodash.shuffle": "^4.2.0",
+    "lodash.without": "^4.4.0",
+    "mocha": "^6.1.4"
+  }
+}
